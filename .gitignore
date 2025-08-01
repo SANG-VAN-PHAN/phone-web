@@ -1,0 +1,32 @@
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build.xml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sensitive files
+src/java/DBUtils/Constants.java
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
